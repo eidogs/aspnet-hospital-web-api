@@ -1,9 +1,12 @@
 # aspnet-hospital-web-api
-Asp Net Core Rest API
 
-git clone
-dotnet run
+Asp.Net Core Rest API
 
-got to localhost:5000
+## Installation
 
-Url: https://hospitalwebapi.herokuapp.com/
+### Download and Install .NET 5.0 url: https://dotnet.microsoft.com/download
+### git clone <repository_url>
+### dotnet run
+### open http://localhost:5000 in your browser
+
+## URL: https://hospitalwebapi.herokuapp.com/
